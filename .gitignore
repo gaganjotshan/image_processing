@@ -1,4 +1,4 @@
 # .gitignore
 __pycache__/
 *.pyc
-image_processing_env/
+image_processing_env/.DS_Store
